@@ -1,4 +1,4 @@
-# Practical-1 Script
+# Basics of ANOVA and Linear Model 
 
 # This file contains some general statistics computed using R programming language.
 
